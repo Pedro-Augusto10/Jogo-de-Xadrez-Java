@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/boardgame/Board.java</file>
-            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/chess/ChessPiece.java</file>
-            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/Pedro%20Augusto/Documents/NetBeansProjects/Jogo%20de%20Xadrez/src/chess/pieces/King.java</file>
         </group>
     </open-files>
 </project-private>
